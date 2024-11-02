@@ -26,3 +26,21 @@ Security: This is by far the most imperative aspect of an organization. If your 
 ![Architecture of Cloud Security with IAM](https://github.com/user-attachments/assets/b44f25bb-9bb9-4dcb-8ef7-f00d234af312)
 
 
+# The Flow of the Project 
+1. Open AWS Management Console
+2. Deploy two EC2 (Elastic Compute Cloud) Instances
+3. Create suitable Tags for those Instances
+4. New IAM Policy in JSON format
+5. New IAM Alias name
+6. Create a User
+7. Create a new User-Group
+8. Attach Permissions to the User-Group
+9. Now you can enjoy, your cloud is secured.
+
+In conclusion, this project provides you with a solution to cloud security at the starting level. 
+
+Download the pdf file provided and learn more about the project!
+
+Thank you
+
+
