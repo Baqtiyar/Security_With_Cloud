@@ -22,6 +22,7 @@ Security: This is by far the most imperative aspect of an organization. If your 
 
 ✅ Amazon IAM
 
-#Architecture 
+# Architecture 
+![Architecture of Cloud Security with IAM](https://github.com/user-attachments/assets/b44f25bb-9bb9-4dcb-8ef7-f00d234af312)
 
 
